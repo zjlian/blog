@@ -1,0 +1,6 @@
+[submodule "themes/oranges"]
+	path = themes/oranges
+	url = git@github.com:zjlian/hexo-theme-oranges.git
+[submodule "source/_posts"]
+	path = source/_posts
+	url = git@github.com:zjlian/blog-posts.git
