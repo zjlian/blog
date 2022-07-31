@@ -70,7 +70,7 @@ index_generator:
 # index2 generator 配置首页文章过滤
 index2_generator:
   exclude:
-    - category 灌水
+    - tag 灌水
 
 # Category & Tag
 default_category: uncategorized
