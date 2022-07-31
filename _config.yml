@@ -64,6 +64,13 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
+  test: false
+
+
+# index2 generator 配置首页文章过滤
+index2_generator:
+  exclude:
+    - category 灌水
 
 # Category & Tag
 default_category: uncategorized
